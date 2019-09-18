@@ -1,0 +1,6 @@
+#company Data
+No of employee list
+1.Infy=200
+2.Tcs=300
+3.Accenture=250
+
