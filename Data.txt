@@ -4,3 +4,7 @@ No of employee list
 2.Tcs=300
 3.Accenture=250
 
+4.Wipro=260
+5.Hcl=150
+
+
